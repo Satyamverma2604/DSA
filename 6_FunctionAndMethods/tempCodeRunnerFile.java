@@ -1,0 +1,1 @@
+(reverseNum * 10) + lastDigit
